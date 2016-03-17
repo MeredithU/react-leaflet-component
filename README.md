@@ -9,7 +9,7 @@
 
 ## Installation Instructions
 
-1. ``git clone https://github.com/MeredithU/react-leaflet-component.git`
+1. ``git clone https://github.com/MeredithU/react-leaflet-component.git``
 2. ``cd react-leaflet-component``
 3. ``npm install``
 
