@@ -1,6 +1,6 @@
 # React Leaflet Map Component
 
-![alt text](https://github.com/meredithu/react-mapbox-component/raw/master/leaflet-map.jpg)
+![alt text](https://github.com/meredithu/react-leaflet-component/raw/master/leaflet-map.jpg)
 
 ## Included
 
