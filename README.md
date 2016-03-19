@@ -1,5 +1,7 @@
 # React Leaflet Map Component
 
+![alt text](https://github.com/meredithu/react-mapbox-component/raw/master/leaflet-map.jpg)
+
 ## Included
 
 1. [React](http://facebook.github.io/react/)
@@ -15,6 +17,6 @@
 
 ## To Run Dev Server
 
-1. ``webpack --display-error-details``
+1. ``npm build``
 2. ``npm start``
 3. Go to *http://localhost:8000/* in your browser
